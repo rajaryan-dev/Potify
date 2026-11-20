@@ -1,0 +1,25 @@
+node_modules/
+client/node_modules/
+client/dist/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.vscode/
+
+# Local non-potify workspace files
+/bank transaction backend project/
+/Internship project college/
+/portfolio/
+/React Js/
+/javascript/
+/Program Files/
+/public/
+/app/
+*.docx
+*.zip
+/index.html
+/main.js
+/next.config.ts
+next-env.d.ts
